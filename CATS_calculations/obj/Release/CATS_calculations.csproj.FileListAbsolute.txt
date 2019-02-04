@@ -1,0 +1,11 @@
+C:\Users\admin\source\repos\CATS_calculations\CATS_calculations\bin\Release\CATS_calculations.exe.config
+C:\Users\admin\source\repos\CATS_calculations\CATS_calculations\bin\Release\CATS_calculations.exe
+C:\Users\admin\source\repos\CATS_calculations\CATS_calculations\bin\Release\CATS_calculations.pdb
+C:\Users\admin\source\repos\CATS_calculations\CATS_calculations\obj\Release\CATS_calculations.csproj.ResolveComReference.cache
+C:\Users\admin\source\repos\CATS_calculations\CATS_calculations\obj\Release\CATS_calculations.Form1.resources
+C:\Users\admin\source\repos\CATS_calculations\CATS_calculations\obj\Release\CATS_calculations.Properties.Resources.resources
+C:\Users\admin\source\repos\CATS_calculations\CATS_calculations\obj\Release\CATS_calculations.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\CATS_calculations\CATS_calculations\obj\Release\CATS_calculations.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\CATS_calculations\CATS_calculations\obj\Release\CATS_calculations.exe
+C:\Users\admin\source\repos\CATS_calculations\CATS_calculations\obj\Release\CATS_calculations.pdb
+C:\Users\admin\source\repos\CATS_calculations\CATS_calculations\obj\Release\CATS_calculations.csprojResolveAssemblyReference.cache
